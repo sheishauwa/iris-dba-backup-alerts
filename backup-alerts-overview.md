@@ -49,4 +49,6 @@ Implemented an automated backup solution for mission-critical databases using SQ
 - **Faster RTO** (Recovery Time Objective)
 - **Audit-compliant** backup procedures
 
-## 📂 Repository Structure
+## 📬 Contact
+For questions or feedback:  
+📧 hauwa.dbtech@gmail.com 
